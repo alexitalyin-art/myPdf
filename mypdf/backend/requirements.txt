@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pikepdf
+pdf2docx
+PyMuPDF
+tesseract-ocr
